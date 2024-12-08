@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome, I'm p0znyaks =]
+<hr>
 
-<!--
-**p0znyaks/p0znyaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> <p>
+>   <i>
+>     My name is Anton, and I am a Java developer. I'm currently in university and spend several hours a day learning new technology stacks or working on my own projects.
+>   </i>
+> </p>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=java,maven,postgres,hibernate,spring" />
+    <img src="https://skillicons.dev/icons?i=docker,git,postman" />
+</p>
+
+<h3 align="left">Contacts:</h3>
+<p align="left">
+<img align="left" src="https://skillicons.dev/icons?i=telegram"/> 
+    <i> Telegram - p0znyaks </i>    
+</p>
+</div>
