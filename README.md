@@ -18,7 +18,6 @@
 <h3 align="left">Contacts:</h3>
 <p align="left">
 <img align="left" src="https://go-skill-icons.vercel.app/api/icons?i=telegram"/>
-    <a href="https://t.me/p0znyaks">p0znyaks</a>
-    <i> Telegram - p0znyaks </i>    
+    <i>Telegram - <a href="https://t.me/p0znyaks">p0znyaks</a></i>
 </p>
 </div>
